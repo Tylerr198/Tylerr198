@@ -1,4 +1,4 @@
-### Hi I'm Tyler 👋 uwu :3
+### Hi I'm Tyler 👋
 
 
 <!--
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
