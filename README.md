@@ -1,4 +1,4 @@
-### Hi I'm Tyler 👋
+### Hi I'm Tyler, a recent graduate from BU in computer science 👋
 
 
 <!--
