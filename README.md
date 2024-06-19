@@ -1,4 +1,4 @@
-### Hi I'm Tyler, a recent graduate from BU in computer science 👋
+## Hey I'm Tyler, a recent grad in computer science @ BU
 
 
 <!--
