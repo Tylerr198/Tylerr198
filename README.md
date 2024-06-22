@@ -1,7 +1,6 @@
 ## ✋Hey there
 I'm a recent graduate from BU in computer science </br>
-Welcome to my github!
-
+Welcome!
 
 
 <!--
